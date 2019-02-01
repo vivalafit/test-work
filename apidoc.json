@@ -1,0 +1,9 @@
+{
+    "name": "Theme voting API documentation",
+    "version": "1.0.0",
+    "description": "API for theme voting system",
+    "title": "Vote API",
+    "template": {
+        "forceLanguage": "en"
+    }
+}
