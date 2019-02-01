@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
   },
-  "author": "viva_la_fit",
+  "author": "vivalafit",
   "license": "ISC",
   "dependencies": {
     "apidoc": "^0.17.7",
